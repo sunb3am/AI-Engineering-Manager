@@ -1,0 +1,7 @@
+# AI Engineering Manager
+An "AI Engineering Manager" that finds roadblocks, points of failure and areas which need more resources by analyzing GitHub PR data and DORA Metrics/Trends.
+
+# What is this though?
+A simple RAG that uses Ollama, llama3.1, Chroma, Langchain and DORA Metrics data from [MiddlewareHQ](https://github.com/middlewarehq/middleware) to answer questions an Engineering Manager would have about their team's operations, project status and efficiency.
+
+Read more about it [here](https://dev.to/middleware/building-an-ai-engineering-manager-with-github-and-middleware-hq-3cbn). 
