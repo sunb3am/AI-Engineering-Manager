@@ -1,3 +1,5 @@
+![emrob](https://github.com/user-attachments/assets/3b21c56b-ba47-470a-b33c-1c572b53cc8a)
+
 # AI Engineering Manager
 An "AI Engineering Manager" that finds roadblocks, points of failure and areas which need more resources by analyzing GitHub PR data and DORA Metrics/Trends.
 
